@@ -1,2 +1,2 @@
 # GitHub-Pages-project
-For CS 110
+Brett Herbst's User Page
