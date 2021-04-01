@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Welcome to Brett's User Page
+[Go To Bottom](#bottom)  
+You can find me on LinkedIn [here](https://www.linkedin.com/in/brett-herbst-8810111a3/) to keep up to date on what I am doing professionally!  
+Here is what I look like:  
+![Image](pics/ProfilePic.jpg)
+[Extra pic of me](pics/anotherPic.jpg)
 
-You can use the [editor on GitHub](https://github.com/brettherbst/GitHub-Pages-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I use this pic for everything cause I never take pictures of myself :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who Am I
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+###### Who I Am As A Programer
+I am a 2nd year CS major, and have a little expierence outside of school programing (mainly a 2 summer intership at Texas file). CS 110 will be my first major project but I am super excited to start! 
+Random coding fact about me: I hate long if/else if statements like:
 ```
+if(...){
+}else if(...){
+}else if(...){
+}else if(...){
+}
+ect
+```
+like dawg cmon just use a switch case- look how clean this looks:
+```
+switch(...)
+{
+  case ...:
+      ...
+      break;
+  case ...:
+      ...
+      break;
+  case ...:
+      ...
+      break;
+}
+ect
+```
+###### Who I Am Normally
+You can usually find me playing video games(right now Apex Legends) or playing Laccrose for the UCSD club team. I guess I always stay busy, maybe I'm inspired by the words of Robert Stevenson:
+> Keep Busy at something: a busy person never has time to be unhappy  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Deep secret of mine- I low key love reality TV but dont tell anyone- here's my favorties   
+- Temptation Island
+- 90 day fiance
+- Are you the One  
 
-### Jekyll Themes
+Don't tell anyone though it'll tank my social clout  
+Im gonna keep it a buck 50 with you, I'm running out of ideas so heres my current check list to finish this lab  
+- [x] Part 1
+- [x] Part 2
+- [ ] Part 3
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brettherbst/GitHub-Pages-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+<a name="bottom"></a>
